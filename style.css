@@ -1,0 +1,32 @@
+body{
+    background: #24C6DC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+    font-family: 'Martel Sans', sans-serif;
+    font-family: 'Satisfy', cursive;
+    color:white;
+}
+canvas{
+    border:25px red ridge;
+}
+video{
+    height:275px;
+    width:600px;
+    
+}
+.footer{
+    background:linear-gradient(grey,black);
+    bottom:0;
+    width:100%;
+    position:fixed;
+    left:0;
+}
+canvas{
+    border:50px red ridge;
+}
+video{
+    height:275px;
+    width:600px;
+    border:50px blue ridge;
+    margin-top:19px;
+}
